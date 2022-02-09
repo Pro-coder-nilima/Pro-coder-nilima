@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nilima Misala</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Smart and Data Analytical Sager</h3>
 
-<img align="right" width="400" src="https://thumbs.dreamstime.com/b/female-programmer-working-web-development-using-laptop-concept-software-developers-script-coding-programming-flat-205061277.jpg">
+<img align="right" width=" 550" src="https://cdn.dribbble.com/users/2514124/screenshots/5439070/girl_3.gif">
 
 - 🔭 I’m currently working on **Advanced Analytical skills**
 
