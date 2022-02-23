@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nilima Misala</h1>
 <h3 align="center">Smart and Data Analytical Sager</h3>
 
-<img align="right" width="450" src="https://cdn.dribbble.com/users/2514124/screenshots/5439070/girl_3.gif">
+<img align="right" width="460" src="https://cdn.dribbble.com/users/2514124/screenshots/5439070/girl_3.gif">
 
 - 🔭 I’m currently working on **Advanced Analytical skills**
 
