@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **nilima.misala@outlook.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/nilima-misala-0bb184231/](https://www.linkedin.com/in/nilima-misala-0bb184231/)
+- 📄 Know about my experiences [linkedin.com/in/nilima-misala](linkedin.com/in/nilima-misala)
 
 - ⚡ Fun fact **Thinker**
 
